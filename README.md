@@ -12,7 +12,7 @@ The **CRM Turborepo Library** is a powerful, scalable monorepo designed to strea
 ## 📖 Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/crm-turborepo.git
+git clone https://github.com/Abdullah-Shaikh03/crm-turborepo.git
 
 # Navigate to the project folder
 cd crm-turborepo
